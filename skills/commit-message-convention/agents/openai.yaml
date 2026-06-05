@@ -1,0 +1,8 @@
+interface:
+  display_name: "Commit Message Convention"
+  short_description: "Draft compliant Git commit messages"
+  default_prompt: "Use $commit-message-convention to draft a Git commit message for these changes."
+policy:
+  allow_implicit_invocation: true
+saiphanidhanush.satyavolu@sdhanush12 agents % pwd
+/Users/saiphanidhanush.satyavolu/.codex/skills/commit-message-convention/agents
