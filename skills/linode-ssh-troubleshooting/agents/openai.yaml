@@ -1,0 +1,4 @@
+interface:
+  display_name: "Linode SSH Access"
+  short_description: "SSH into known Linodes for admin work"
+  default_prompt: "Use $linode-ssh-troubleshoot to inspect  and prepare any approved setup commands."
