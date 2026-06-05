@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jenkins"
+  short_description: "Work with Jenkins safely"
+  default_prompt: "Use $jenkins-hid to inspect a Jenkins job and explain the latest build failure."
